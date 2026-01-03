@@ -20,5 +20,8 @@ No real financial institution data is used.
 ## Explainability & Governance
 Model behavior is analyzed using feature importance to support transparent, regulator-friendly explanations of flagged transactions.
 
+## Results 
+Emphasize precision–recall tradeoffs and demonstrate how threshold selection directly impacts compliance outcomes and customer trust.
+
 ## Disclaimer
 This project is for educational purposes only and does not reflect PayPal systems, data, or internal models.
